@@ -20,5 +20,10 @@ class ViewController: UIViewController {
     {
         
     }
+    
+    func wait()
+    {
+        
+    }
 }
 
